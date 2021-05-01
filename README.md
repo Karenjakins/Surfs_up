@@ -14,6 +14,8 @@ The purpose of this analysis is to compare the weather data from June and Decemb
 		![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/June%20Temperatures.png "June Temperatures")
 
 
+
+
 	-December had a min of **56.00**, max of **83.0** and a mean of **71.0**. 
 		![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/December%20Temperatures.png "December Temperatures")
 
