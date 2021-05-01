@@ -11,13 +11,15 @@ The purpose of this analysis is to compare the weather data from June and Decemb
 - After conducting the analysis, we gather the following statistics for the months of June and December. 
 
 	- June had a min of **64.00**, max of **85.0** and a mean of **74.9**. 
-		![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/June%20Temperatures.png "June Temperatures")
+
+	![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/June%20Temperatures.png "June Temperatures")
 
 
 
 
 	-December had a min of **56.00**, max of **83.0** and a mean of **71.0**. 
-		![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/December%20Temperatures.png "December Temperatures")
+
+	![alt text](https://github.com/Karenjakins/Surfs_up/blob/main/Resources/December%20Temperatures.png "December Temperatures")
 
 - The difference in the standard deviation between June and December was only **0.49** since the standard deviation for June is "**3.25**" and "**3.74**" in December, showing there is not a significant difference in the two months. 
 
